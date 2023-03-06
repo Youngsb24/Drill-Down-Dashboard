@@ -23,3 +23,19 @@ Add 4 more panels to the dashboards. Click "add panels".
 <br>
 <img src="https://imgur.com/wLAI8cB.png" height="30%" width="30%" alt="Disk Sanitization Steps"/>
 </br>
+
+<h4>Step 3</h4>
+Adding the inputs. First we'll add a time inputs, then configure the token. Each inputs must have a token we insert it to a specific panel you want to be interactive. 
+<br>
+<img src="https://imgur.com/tAZ3JKq.png" height="30%" width="30%" alt="Disk Sanitization Steps"/>
+</br><br>
+<img src="https://imgur.com/TPG4zrw.png" height="30%" width="30%" alt="Disk Sanitization Steps"/>
+</br>
+
+# time input configurations
+<br>
+<img src="https://imgur.com/t9SrdUY.png" height="30%" width="30%" alt="Disk Sanitization Steps"/>
+</br>
+<br>
+<img src="https://imgur.com/SmaFJUY.png" height="30%" width="30%" alt="Disk Sanitization Steps"/>
+</br>
