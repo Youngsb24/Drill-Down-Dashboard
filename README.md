@@ -32,7 +32,7 @@ Adding the inputs. First we'll add a time inputs, then configure the token. Each
 <img src="https://imgur.com/TPG4zrw.png" height="30%" width="30%" alt="Disk Sanitization Steps"/>
 </br>
 
-# time input configurations
+# Time input configurations
 <br>
 <img src="https://imgur.com/t9SrdUY.png" height="30%" width="30%" alt="Disk Sanitization Steps"/>
 </br>
