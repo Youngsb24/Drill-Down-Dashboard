@@ -32,10 +32,19 @@ Adding the inputs. First we'll add a time inputs, then configure the token. Each
 <img src="https://imgur.com/TPG4zrw.png" height="30%" width="30%" alt="Disk Sanitization Steps"/>
 </br>
 
-# Time input configurations
+Time input configurations
 <br>
 <img src="https://imgur.com/t9SrdUY.png" height="30%" width="30%" alt="Disk Sanitization Steps"/>
 </br>
 <br>
 <img src="https://imgur.com/SmaFJUY.png" height="30%" width="30%" alt="Disk Sanitization Steps"/>
+</br>
+
+Since we are dealing with static data that's been ingested from couple years ago , first image shows theres no data produce in the last 7 days but second image populates all the data.
+
+<br>
+<img src="https://imgur.com/5Aes9ym.png" height="30%" width="30%" alt="Disk Sanitization Steps"/>
+</br>
+<br>
+<img src="https://imgur.com/z5lOXzy.png" height="30%" width="30%" alt="Disk Sanitization Steps"/>
 </br>
